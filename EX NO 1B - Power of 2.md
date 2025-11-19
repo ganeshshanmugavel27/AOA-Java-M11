@@ -18,11 +18,12 @@ An integer n is a power of two, if there exists an integer x such that n == 2x.
 
 ## Program:
 ```
-/*
+
 Program - Power of 2
 Developed by: GANESH S
 Register Number:  212222040042
-*/
+```
+```JAVA
 import java.util.Scanner;
 
 public class Solution {
